@@ -54,6 +54,18 @@
   service: true
   description: "TBD"
 -
+  id: 1020
+  title: "Panel Discussion"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
+  id: 1021
+  title: "Concluding Remarks"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"

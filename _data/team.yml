@@ -2,24 +2,26 @@
   id: 0
   name: "Fadi"
   surname: "Alsaleem"
-  title: "Workshop Chair "
+  title: ""
   thumbnailUrl: Fadi_Alsaleem.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "", title: ""}
+  social:
+    - {name: "site", link: "https://engineering.unl.edu/durhamschool/faculty/fadi-alsaleem/"}
 
 -
   id: 1
   name: "Mostafa"
   surname: "Rafaie"
-  title: "Designer and Web Developer"
+  title: ""
   thumbnailUrl: mostafa_rafaie.jpeg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "", title: ""}
   social:
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://google.com/mo_rafaie"}
+    - {name: "github", link: "https://github.com/rafaie"}
 # -
 #   id: 2
 #   name: "Ostap"
