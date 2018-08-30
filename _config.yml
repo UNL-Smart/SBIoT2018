@@ -32,8 +32,8 @@ organizerLink: "https://engineering.unl.edu/smart/"
 
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "mailto:falsaleem2@unl.edu?subject=Become a Speaker"
+c4sponsorsUrl: "mailto:falsaleem2@unl.edu?subject=Become a Sponser"
 
 
 # Navigation
@@ -46,10 +46,10 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
 
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "omaha3.jpg"
@@ -58,18 +58,17 @@ eventDate: "9 November 2018"
 typeoutTextValues: '"", "UNL", "Omaha", "Nebraska", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About SBIT Workshop"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "40", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "20", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "", info: "hours", detail: "of discussion about smart home"}
  - {count: "7", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
 
@@ -174,15 +173,13 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://engineering.unl.edu/durhamschool/", text: "DURHAM SCHOOL OF ARCHITECTURAL ENGINEERING & CONSTRUCTION"}
+   - {link: "https://engineering.unl.edu/smart/", text: "SMART BUILDINGS AND LOT RESEARCH LAB"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:falsaleem2@unl.edu", text: "falsaleem2@unl.edu"}
+
 
 # Blog
 blogTitle: "Latest news"
