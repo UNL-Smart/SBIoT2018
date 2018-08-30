@@ -47,9 +47,11 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
+ - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
 
 rightNavigationButtons:
  - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
+ - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
 
 # Hero Block
 heroImage: "omaha3.jpg"
@@ -58,6 +60,7 @@ eventDate: "9 November 2018"
 typeoutTextValues: '"", "UNL", "Omaha", "Nebraska", "USA"'
 typeoutFallback: "Season"
 heroButtons:
+ - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
  - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
 
 # About Block
@@ -70,7 +73,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "20", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "", info: "hours", detail: "of discussion about smart home"}
- - {count: "5", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
+ - {count: "5f", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,9 +93,9 @@ eventAddressLocality: "Omaha"
 eventAddressLocalityRegion: "NE"
 eventPostalCode: "68106"
 eventAddressCountry: "United States"
-eventStartTime: "2018-11-25T9:00"
+eventStartTime: "2018-11-09T9:00"
 eventDoorTime: "08:00"
-eventEndTime: "2018-11-25T18:00"
+eventEndTime: "2018-11-09T16:30"
 eventPlaceCoordinates: "41.244438, -96.011929"
 mapCenterCoordinates: "41.244232, -96.014418"
 mapMobileCenterCoordinates: "41.244151, -96.013125"
@@ -109,7 +112,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "#SBIT2018"
+twitterHashTag: "SBIT2018"
 twitterFeed: ""
 
 # Partners Block
