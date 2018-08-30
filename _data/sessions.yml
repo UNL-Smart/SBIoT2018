@@ -1,4 +1,59 @@
 -
+  id: 1000
+  title: "Registration"
+  place: "Hall"
+  service: true
+  description: "Register as the speakers and attendees"
+-
+  id: 1001
+  title: "Breakfast"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 1002
+  title: "Welcome/Introduction"
+  place: "Hall"
+  service: true
+  description: ""
+
+-
+  id: 1010
+  title: "Speaker 1"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
+  id: 1011
+  title: "Speaker 2"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
+  id: 1012
+  title: "Speaker 3"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
+  id: 1013
+  title: "Speaker 4"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
+  id: 1014
+  title: "Speaker 5"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
+  id: 1015
+  title: "Speaker 6"
+  place: "Hall"
+  service: true
+  description: "TBD"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
@@ -25,7 +80,7 @@
   subtype: presentation
   speakers: [4, 5]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -35,7 +90,7 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004

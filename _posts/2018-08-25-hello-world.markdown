@@ -10,14 +10,14 @@ but also because our team are putting together the final missing parts in Omaha 
 
 So should you also be excited? Well yes... and here's why!
 
-* **Attendance**: we're expecting over 20+ attendees
+* **Attendance**: We're expecting over 20+ attendees
 * **Date**: 9 of November 2018
 * **Venue**: Scott conference center
-* **Speakers**: we're in the process of finalizing the list of speakers
+* **Speakers**: We're in the process of finalizing the list of speakers
 
 but we've already secured a first batch of experts:
 
-* **Dr.	David	Lehrer** - https://www.cbe.berkeley.edu/aboutus/staff-edward.htm<br>
-* **Dr. Ralph Muehleisen** - https://www.anl.gov/contributors/ralph-t-muehleisen<br>
-* **Professor	Gregor 	Henze** - https://www.colorado.edu/ceae/gregor-p-henze <br>
-* **Dr.	Srinivas Katipamula** - PNNL<br>
+* **Dr.	David	Lehrer** - Communications Director / Researcher in Center for the Built Environment (CBE), Berkeley<br>
+* **Prof.	Gregor P. Henze** - Professor of architectural engineering at the University of Colorado Boulder <br>
+* **Dr.	Srinivas Katipamula** -  Staff Scientist at Pacific Northwest National Laboratory (PNNL)<br>
+* **Mr.	Hung 	Pham** - Director of Integrated Tech., Emerson Climate Technology<br>
