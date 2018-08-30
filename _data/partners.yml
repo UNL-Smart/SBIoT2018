@@ -1,7 +1,13 @@
 -
-  group: "Contributors"
+  group: "Universities"
   elements:
+    - {name: "University of Colorado Boulder", description: "University of Colorado Boulder", link: "https://www.colorado.edu/", imageUrl: "CU_boulder.jpg"}
+    - {name: "Iowa State University", description: "Iowa State University", link: "https://www.iastate.edu/", imageUrl: "Iowa_State_U.png"}
+    - {name: "The University of Alabama", description: "The University of Alabama", link: "https://www.ua.edu/", imageUrl: "UA-StackedNameplate.png"}
 
 -
-  group: "With support of"
+  group: "Orgnizations and Companies"
   elements:
+    - {name: "Emerson Climate Technologies", description: "Emerson Climate Technologies", link: "https://climate.emerson.com/en-us", imageUrl: "emerson.png"}
+    - {name: "Center for the Built Environment - UC Berkeley", description: "Center for the Built Environment - UC Berkeley", link: "https://www.cbe.berkeley.edu/index.htm", imageUrl: "cbe.jpg"}
+    - {name: "Pacific Northwest National Laboratorys", description: "Pacific Northwest National Laboratory", link: "https://www.pnnl.gov/", imageUrl: "pnnl.jpg"}
