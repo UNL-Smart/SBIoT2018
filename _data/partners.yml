@@ -11,3 +11,4 @@
     - {name: "Emerson Climate Technologies", description: "Emerson Climate Technologies", link: "https://climate.emerson.com/en-us", imageUrl: "emerson.png"}
     - {name: "Center for the Built Environment - UC Berkeley", description: "Center for the Built Environment - UC Berkeley", link: "https://www.cbe.berkeley.edu/index.htm", imageUrl: "cbe.jpg"}
     - {name: "Pacific Northwest National Laboratorys", description: "Pacific Northwest National Laboratory", link: "https://www.pnnl.gov/", imageUrl: "pnnl.jpg"}
+    - {name: "Amazon AI Labs", description: "Amazon AI Labs", link: "https://www.amazon.com/", imageUrl: "amazon.jpg"}

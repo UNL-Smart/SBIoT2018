@@ -1,9 +1,21 @@
 -
-  id: 1
+  id: 100
+  name: "Bharathan"
+  surname: "Balaji"
+  company: "Amazon AI Labs"
+  title: "Research Scientist"
+  bio: "<p>Bharathan Balaji is a Research Scientist in Amazon AI Labs, where he works on reinforcement learning services and applications. He did his PhD at University of California, San Diego, where he developed smart buildings applications such as personalized thermostat control, fault detection and occupancy based control. He also helped develop the Brick ontology which is being adopted as an industry standard. </p>"
+  thumbnailUrl: Headshot2.jpeg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.synergylabs.org/bharath/"}
+
+-
+  id: 110
   name: "Owen"
   surname: "Redwood"
   company: "Nebraska Applied Research Institute"
-  title: "Director of Cyber Research"
+  title: "Chief Research Officer"
   bio: "<p>Dr. Owen Redwood is the Chief Research Officer at NARI. Dr. Redwood earned his M.S. and Ph.D. degrees in Computer Science from the Florida State University, focusing on vulnerability research and virtualization research of cyber physical systems. Dr. Redwood earned his B.S. in Computer Science from the Georgia Institute of Technology. His research background spans IT and OT vulnerability research, reverse engineering, cyber physical systems virtualization research, hybrid approaches for static/dynamic/symbolic analysis, physical-impact payload development, and automated exploitation and mitigation. Dr. Redwood also created and maintains the “Offensive Computer Security” online open-courseware which has been adopted by faculty members at over 20 universities and is the world’s top open-courseware on vulnerability research and exploitation. </p> <p> In a past life, Dr. Redwood was a member of the Raytheon Deep Red team for the DARPA Cyber Grand Challenge, where he focused on automating vulnerability discovery, vulnerability mitigation, and exploitation.  He also previously worked for Sandia National Labs and another government cybersecurity research and development organization focusing on securing critical infrastructure. Dr. Redwood’s past cyber physical system vulnerability research has covered devices in energy critical infrastructure, oil/gas critical infrastructure, maritime systems, vehicular systems, building automation systems, and more. Dr. Redwood has a Global Industrial Cyber Security Professional (GICSP) certification, and has passed the CISSP exam and is awaiting the CISSP certification award currently </p>"
   thumbnailUrl: Owen_Redwood_Web.jpg
   rockstar: false
