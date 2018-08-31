@@ -71,7 +71,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "20", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "40", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "", info: "hours", detail: "of discussion about smart home"}
  - {count: "5", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
 
