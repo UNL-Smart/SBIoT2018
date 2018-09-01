@@ -3,7 +3,7 @@
   title: "Registration"
   place: "Hall"
   service: true
-  description: "Register as the speakers and attendees"
+  description: ""
 -
   id: 1001
   title: "Breakfast"
@@ -21,50 +21,53 @@
   id: 1010
   title: "Speaker 1"
   place: "Hall"
+  speakers: []
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 1011
-  title: "Speaker 2"
+  title: "Smart Buildings: a manufacturer’s perspective"
   place: "Hall"
+  speakers: [101]
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 1012
   title: "Speaker 3"
   place: "Hall"
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 1013
   title: "Speaker 4"
   place: "Hall"
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 1014
   title: "Speaker 5"
   place: "Hall"
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 1015
-  title: "Speaker 6"
+  title: "Cyber Attacks, Pivots and Impacts in Smart Building Networks"
   place: "Hall"
+  speakers: [110]
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 1020
   title: "Panel Discussion"
   place: "Hall"
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 1021
   title: "Concluding Remarks"
   place: "Hall"
   service: true
-  description: "TBD"
+  description: ""
 -
   id: 307
   title: "Coffee Break"

@@ -22,6 +22,19 @@
   social:
     - {name: "twitter", link: "https://google.com/mo_rafaie"}
     - {name: "github", link: "https://github.com/rafaie"}
+    - {name: "site", link: "https://engineering.unl.edu/smart/rafaie/"}
+
+-
+  id: 2
+  name: "Iason"
+  surname: "Konstantzos"
+  title: ""
+  thumbnailUrl: Konstantzos.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+
+
 # -
 #   id: 2
 #   name: "Ostap"

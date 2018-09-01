@@ -9,6 +9,47 @@
   rockstar: true
   social:
     - {name: "site", link: "http://www.synergylabs.org/bharath/"}
+-
+  id: 101
+  name: "Hung"
+  surname: "Pham"
+  company: "Emerson Climate Technologies"
+  title: "Director Integrated Technologies in Emerson Commercial & Residential Solutions Business"
+  bio: "<p>Hung Pham is Director Integrated Technologies in Emerson Commercial & Residential Solutions Business with over 40 years of experience in HVAC industry and system technology integration involving refrigerants, control and diagnostic solutions. He currently leads innovations efforts for residential and light commercial HVAC at the Emerson Helix innovation center.</p>"
+  thumbnailUrl: HungPham.jpg
+  rockstar: false
+
+-
+  id: 102
+  name: "David"
+  surname: "Lehrer"
+  company: "Center for the Built Environment (CBE) - Berkeley"
+  title: "Communications Director / Researcher"
+  bio: "<p>David Lehrer serves as the liaison between CBE's research team and its industry partners, and is responsible for catalyzing and managing industry/university collaborations. He is a frequent writer, speaker and event organizer for topics related to commercial building performance and workplace design. He is a primary contributor to CBE's research on occupant feedback and <a href='https://www.cbe.berkeley.edu/research/visualizing-info.htm'>visualizing information in buildings</a>, and recently received DOE's Catalyst Energy Innovation Award. </p><p>Prior to joining CBE, David had acquired over 10 years of experience as a designer and architect. He has been an adjunct faculty member at the California College of the Arts (CCA) and served for several years as co-chair of the AIA San Francisco Committee on the Environment. David holds an M.Arch from UC Berkeley. He also maintains a freelance design practice <a href='http://www.lehrerdesign.com'>LehrerDesign</a> and produces the case studies for the annual <a h  ref='http://www.greenbuildings.berkeley.edu/bestpractices/2017/'>Best Practices Awards</a>.</p>"
+  thumbnailUrl: david_Lehrer.jpg
+  rockstar: true
+
+-
+  id: 103
+  name: "Gregor P."
+  surname: "Henze"
+  company: "University of Colorado Boulder"
+  title: "Professor • RASEI Associate Director • Charles Victor Schelke Endowed Chair • Professional Engineer (PE)"
+  bio: "<p>I am a professor of architectural engineering in the Department of Civil, Environmental, and Architectural Engineering at the University of Colorado Boulder. At the undergraduate level, the architectural engineering programs aims at educating engineers to design high-performance commercial buildings such as offices, schools, hospitals, and industrial facilities. At the graduate level, our building systems engineering program investigates emerging trends and issues revolving around low-energy high performance building design concepts, renewable energy solutions applied to buildings, and novel approaches to building control and performance analysis.</p><p>My research emphasizes model-based predictive optimal control and model-free reinforcement learning control of building energy systems and building thermal mass, model-based benchmarking of building operational performance, whole-building fault detection and diagnosis, control strategies for mixed-mode buildings that incorporate both natural and mechanical ventilation, uncertainty quantification of occupant behavior and its impact, energy analytics and decision analysis as well as the integration of building energy system operations with the electric grid system.</p>"
+  thumbnailUrl: GREGOR.P.HENZE.jpg
+  rockstar: false
+
+-
+  id: 104
+  name: "Srinivas"
+  surname: "Katipamula"
+  company: "Pacific Northwest National Laboratory"
+  title: "Staff Scientist"
+  bio: "<p>Srinivas Katipamula is a Staff Scientist at Pacific Northwest National Laboratory (PNNL). For over 25 years, Katipamula’s career has focused on improving the operating efficiency of commercial buildings. Prior to joining PNNL, he led the analytics group at the Enron Energy Services (EES). Previously, he also worked at Energy Systems Laboratory (ESL), at Texas A&M University, where he developed a number of measurement and verification techniques to measure energy savings from retrofits. He has extensive technical experience in the evaluation of advanced design concepts for heating, ventilation and air-conditioning systems (HVAC), development of automated fault detection and diagnostic techniques, self-correcting controls, building and energy system simulations, and analysis and evaluation of new energy efficient technologies, development and use of analytical modeling techniques.</p>"
+  thumbnailUrl: Katipamula.jpg
+  rockstar: false
+
+
 
 -
   id: 110
