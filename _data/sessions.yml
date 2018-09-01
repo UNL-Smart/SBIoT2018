@@ -33,8 +33,9 @@
   description: ""
 -
   id: 1012
-  title: "Speaker 3"
+  title: "Benefits from Integration of Smart Buildings with the Smart Electric Grid"
   place: "Hall"
+  speakers: [104]
   service: true
   description: ""
 -
