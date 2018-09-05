@@ -40,18 +40,19 @@
   description: ""
 -
   id: 1013
-  title: "Speaker 4"
+  title: "Data Driven Buildings"
   place: "Hall"
+  speakers: [100]
   service: true
   description: ""
 -
-  id: 1014
+  id: 1015
   title: "Speaker 5"
   place: "Hall"
   service: true
   description: ""
 -
-  id: 1015
+  id: 1014
   title: "Cyber Attacks, Pivots and Impacts in Smart Building Networks"
   place: "Hall"
   speakers: [110]
@@ -78,7 +79,7 @@
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  place: ""
   service: true
 -
   id: 001
