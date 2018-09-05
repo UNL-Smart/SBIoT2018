@@ -34,6 +34,18 @@
   ribbon:
     - {abbr: "", title: ""}
 
+-
+  id: 10
+  name: "Andrew"
+  surname: "Bechdolt"
+  title: ""
+  thumbnailUrl: Andrew_Bechdolt.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "site", link: "https://engineering.unl.edu/durhamschool/andrew-bechdolt/"}
+
 
 # -
 #   id: 2
