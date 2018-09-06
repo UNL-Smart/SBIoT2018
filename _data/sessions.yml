@@ -47,7 +47,27 @@
   description: ""
 -
   id: 1015
-  title: "Speaker 5"
+  title: "Battery-Free RFID Sensor Network with Spatiotemporal Pattern Network-Based Data Fusion System for Human Presence Sensing"
+  place: "Hall"
+  speakers: [103]
+  service: true
+  description: ""
+-
+  id: 1016
+  title: "Evaluating the Value of Intelligent Building Systems: A Case Study"
+  place: "Hall"
+  speakers: [111]
+  service: true
+  description: ""
+-
+  id: 1017
+  title: "TBD"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 1018
+  title: "Speaker 8"
   place: "Hall"
   service: true
   description: ""
