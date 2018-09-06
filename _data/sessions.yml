@@ -19,9 +19,9 @@
 
 -
   id: 1010
-  title: "Speaker 1"
+  title: "New technologies for occupant-responsive buildings"
   place: "Hall"
-  speakers: []
+  speakers: [102]
   service: true
   description: ""
 -
