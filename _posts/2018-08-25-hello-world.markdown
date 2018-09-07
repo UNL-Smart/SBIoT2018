@@ -5,15 +5,15 @@ date:   2018-08-25 10:00:00
 isStaticPost: true
 ---
 
-We're very excited - not just because of the inordinate amount of caffeine based products consumed -
-but also because our team are putting together the final missing parts in Omaha - [SBIT2018 Workshop](https://unl-smart.github.io/SBIT2018).
+We’re very excited not just because of the inordinate amount of caffeinated products consumed,
+but also because our team is putting together the final touches for the Omaha  - [SBIT2018 Workshop](https://unl-smart.github.io/SBIT2018).
 
 So should you also be excited? Well yes... and here's why!
 
-* **Attendance**: We're expecting over 20+ attendees
-* **Date**: 9 of November 2018
-* **Venue**: Scott conference center
-* **Speakers**: We're in the process of finalizing the list of speakers
+* **Attendance**: We're expecting 20+ attendees
+* **Date**: November 9, 2018
+* **Venue**: Scott Conference Center, Omaha, Nebraska
+* **Speakers**: We are finalizing the list of speakers but we’ve already scheduled these experts:
 
 but we've already secured a first batch of experts:
 

@@ -55,9 +55,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "omaha3.jpg"
-heroTitle: "SBIT Workshop - <typeout> - 2018"
-eventDate: "9 November 2018"
-typeoutTextValues: '"", "UNL", "Omaha", "Nebraska", "USA"'
+heroTitle: "SBIT Workshop 2018"
+eventDate: "November 9, 2018"
+typeoutTextValues: '"Smart Building", "Internet of Things", "UNL", "Omaha", "Nebraska", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
@@ -71,9 +71,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "40", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "", info: "hours", detail: "of discussion about smart home"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "40", specialCharacter: "+", info: "attendees", detail: "from business and academia"}
+ - {count: "8", specialCharacter: "", info: "hours", detail: "of presentations, panels, and networking"}
+ - {count: "6", specialCharacter: "+", info: "presentations", detail: "of various IoT topics"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -81,7 +81,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Invited speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -177,11 +177,11 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://engineering.unl.edu/durhamschool/", text: "DURHAM SCHOOL OF ARCHITECTURAL ENGINEERING & CONSTRUCTION"}
-   - {link: "https://engineering.unl.edu/smart/", text: "SMART BUILDINGS AND LOT RESEARCH LAB"}
+   - {link: "https://engineering.unl.edu/smart/", text: "SMART BUILDINGS AND IOT RESEARCH LAB"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:falsaleem2@unl.edu", text: "falsaleem2@unl.edu"}
+   - {link: "mailto:falsaleem2@unl.edu", text: "Orgnizer"}
 
 
 # Blog
