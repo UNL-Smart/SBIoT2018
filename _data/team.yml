@@ -11,7 +11,30 @@
     - {name: "site", link: "https://engineering.unl.edu/durhamschool/faculty/fadi-alsaleem/"}
 
 -
-  id: 1
+  id: 3
+  name: "David"
+  surname: "Yuill"
+  title: ""
+  thumbnailUrl: DY.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "site", link: "https://engineering.unl.edu/durhamschool/faculty/david-yuill/"}
+
+-
+  id: 3
+  name: "Iason"
+  surname: "Konstantzos"
+  title: ""
+  thumbnailUrl: Konstantzos.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+
+
+-
+  id: 10
   name: "Mostafa"
   surname: "Rafaie"
   title: ""
@@ -25,17 +48,7 @@
     - {name: "site", link: "https://engineering.unl.edu/smart/rafaie/"}
 
 -
-  id: 2
-  name: "Iason"
-  surname: "Konstantzos"
-  title: ""
-  thumbnailUrl: Konstantzos.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-
--
-  id: 10
+  id: 100
   name: "Andrew"
   surname: "Bechdolt"
   title: ""
@@ -46,6 +59,28 @@
   social:
     - {name: "site", link: "https://engineering.unl.edu/durhamschool/andrew-bechdolt/"}
 
+-
+  id: 101
+  name: "Kelly"
+  surname: "Johnson"
+  title: ""
+  thumbnailUrl: Johnson.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kelly-johnson-74575b118/"}
+    - {name: "site", link: "https://engineering.unl.edu/durhamschool/kelly-johnson/"}
+
+-
+  id: 102
+  name: "Adel"
+  surname: "Kabiri"
+  title: ""
+  thumbnailUrl: Adel.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "", title: ""}
 
 # -
 #   id: 2

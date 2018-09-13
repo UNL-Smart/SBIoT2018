@@ -6,13 +6,14 @@
     - {name: "The University of Alabama", description: "The University of Alabama", link: "https://www.ua.edu/", imageUrl: "UA-StackedNameplate.png"}
 
 -
-  group: "Orgnizations"
+  group: "Organizations"
   elements:
     - {name: "Center for the Built Environment - UC Berkeley", description: "Center for the Built Environment - UC Berkeley", link: "https://www.cbe.berkeley.edu/index.htm", imageUrl: "cbe.jpg"}
     - {name: "Pacific Northwest National Laboratorys", description: "Pacific Northwest National Laboratory", link: "https://www.pnnl.gov/", imageUrl: "pnnl.jpg"}
-    - {name: "Nebraska Applied Research Institute", description: "Nebraska Applied Research Institute", link: "https://www.nari-cyber.com/", imageUrl: "NARI.jpg"}
+    - {name: "Nebraska Applied Research Institute", description: "Nebraska Applied Research Institute", link: "https://www.nari-cyber.com/", imageUrl: "NARI.png"}
 -
   group: "Companies"
   elements:
     - {name: "Emerson Climate Technologies", description: "Emerson Climate Technologies", link: "https://climate.emerson.com/en-us", imageUrl: "emerson.png"}
     - {name: "Amazon AI Labs", description: "Amazon AI Labs", link: "https://www.amazon.com/", imageUrl: "amazon.jpg"}
+    - {name: "WSP", description: "WSP", link: "https://www.wsp.com/", imageUrl: "wsp_4C.png"}

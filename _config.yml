@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SBIT2018 - Smart Building and Internet of Things Workshop 2018"
+title: "SBIoT2018 - Smart Building and Internet of Things Workshop 2018"
 email: "falsaleem2@unl.edu"
 description: "It's the worshop about Smart Building and Internet of Things Workshop in Omaha!"
 baseurl: "/SBIT2018"
@@ -55,16 +55,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "omaha3.jpg"
-heroTitle: "SBIT Workshop 2018"
+heroTitle: "SBIoT Workshop 2018"
 eventDate: "November 9, 2018"
-typeoutTextValues: '"Smart Building", "Internet of Things", "UNL", "Omaha", "Nebraska", "USA"'
+typeoutTextValues: '"UNL", "Omaha", "Nebraska"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
  - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
 
 # About Block
-aboutTitle: "About SBIT Workshop"
+aboutTitle: "About SBIoT Workshop"
 aboutBlock:
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
@@ -112,11 +112,11 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "SBIT2018"
+twitterHashTag: "SBIoT2018"
 twitterFeed: ""
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizer"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -176,13 +176,16 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://engineering.unl.edu/durhamschool/", text: "DURHAM SCHOOL OF ARCHITECTURAL ENGINEERING & CONSTRUCTION"}
-   - {link: "https://engineering.unl.edu/smart/", text: "SMART BUILDINGS AND IOT RESEARCH LAB"}
+   - {link: "https://engineering.unl.edu/durhamschool/", text: "DURHAM School of Architectural Eengineering & Construction"}
+   - {link: "https://engineering.unl.edu/smart/", text: "Smart Buildings and IoT Research Lab"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:falsaleem2@unl.edu", text: "Orgnizer"}
-
+   - {link: "mailto:falsaleem2@unl.edu", text: "Organizer"}
+ -
+  title: "Visitors guide"
+  links:
+   - {text: "Omaha’s Official 2018 Visitor’s Guide", link: "http://res.cloudinary.com/simpleview/image/upload/v1515518298/clients/omaha/CVB2018_Proof_FINAL_fb291196-9dc1-4fdc-8a2f-84bb78f50058.pdf"}
 
 # Blog
 blogTitle: "Latest news"

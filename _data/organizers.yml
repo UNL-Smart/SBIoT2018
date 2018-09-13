@@ -1,4 +1,4 @@
 -
-  group: "Main organizer"
+  group: ""
   elements:
     - {name: "Durham School", description: "Durham School", link: "https://engineering.unl.edu/durhamschool/", imageUrl: "durham.png"}
