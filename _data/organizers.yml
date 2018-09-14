@@ -1,4 +1,4 @@
 -
   group: ""
   elements:
-    - {name: "Durham School", description: "Durham School", link: "https://engineering.unl.edu/durhamschool/", imageUrl: "durham.png"}
+    - {name: "Durham School", description: "Durham School", link: "https://engineering.unl.edu/durhamschool/", imageUrl: "durham.png", width: "300px" }

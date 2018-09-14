@@ -15,5 +15,5 @@
   group: "Companies"
   elements:
     - {name: "Emerson Climate Technologies", description: "Emerson Climate Technologies", link: "https://climate.emerson.com/en-us", imageUrl: "emerson.png"}
-    - {name: "Amazon AI Labs", description: "Amazon AI Labs", link: "https://www.amazon.com/", imageUrl: "amazon.jpg"}
+    - {name: "Amazon AI Labs", description: "Amazon AI Labs", link: "https://www.amazon.com/", imageUrl: "Amazon_logo_plain.png"}
     - {name: "WSP", description: "WSP", link: "https://www.wsp.com/", imageUrl: "wsp_4C.PNG"}

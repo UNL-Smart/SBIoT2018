@@ -75,12 +75,15 @@
 -
   id: 102
   name: "Adel"
-  surname: "Kabiri"
+  surname: "Kabirikopaei"
   title: ""
   thumbnailUrl: Adel.jpg
   subTeam: true
   ribbon:
-    - {abbr: "", title: ""}
+    - {abbr: "", title: ""}  
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adelkabiri/"}
+
 
 # -
 #   id: 2
