@@ -43,9 +43,10 @@
   ribbon:
     - {abbr: "", title: ""}
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mostafa-rafaie/"}
+    - {name: "site", link: "https://engineering.unl.edu/smart/rafaie/"}
     - {name: "twitter", link: "https://google.com/mo_rafaie"}
     - {name: "github", link: "https://github.com/rafaie"}
-    - {name: "site", link: "https://engineering.unl.edu/smart/rafaie/"}
 
 -
   id: 100
@@ -80,7 +81,7 @@
   thumbnailUrl: Adel.jpg
   subTeam: true
   ribbon:
-    - {abbr: "", title: ""}  
+    - {abbr: "", title: ""}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/adelkabiri/"}
 

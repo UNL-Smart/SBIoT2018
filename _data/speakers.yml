@@ -49,6 +49,16 @@
   thumbnailUrl: Katipamula.jpg
   rockstar: false
 
+-
+  id: 105
+  name: "Zheng"
+  surname: "O’Neill"
+  company: "University of Alabama"
+  title: "Associate Professor"
+  bio: "<p>Zheng O’Neill is an Associate Professor at Department of Mechanical Engineering in the University of Alabama. She is also an Adjunct Professor of Architectural Engineering and an Assistant Director of Alabama Industrial Assessment Center. She was a Principal Investigator at United Technologies Research Center from 2006 to 2013, where she was responsible for the development and field-implement of advanced building optimal controls, building performance monitoring, and energy diagnostics. Her current research emphasized intelligent building operations, control strategies for demand control ventilation, uncertainty quantifications in buildings, ground source heat pump systems, and smart, resilient and connected community. Her current research is supported by ASHRAE, NSF, DOE, ARPA-E, and industry. Zheng is a registered Professional Engineer and an active member of ASHRAE and IBPSA. She received 2010 UTRC Outstanding Achievement Award, 2013 Best Paper Award from Journal of building simulation, 2015 DOE IAC junior faculty research award, 2016 Educator of the Year from ASHRAE Birmingham Chapter, and 2017 ASHRAE Innovative Research Grant Award. </p>"
+  thumbnailUrl: ONeill-Zhang.jpg
+  rockstar: false
+
 
 
 -
