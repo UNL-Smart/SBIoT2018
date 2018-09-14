@@ -8,6 +8,7 @@
   ribbon:
     - {abbr: "", title: ""}
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fadi-alsaleem-phd-a0542922/"}    
     - {name: "site", link: "https://engineering.unl.edu/durhamschool/faculty/fadi-alsaleem/"}
 
 -
@@ -20,6 +21,7 @@
   ribbon:
     - {abbr: "", title: ""}
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/david-yuill-9797332/"}
     - {name: "site", link: "https://engineering.unl.edu/durhamschool/faculty/david-yuill/"}
 
 -
@@ -31,6 +33,8 @@
   team: true
   ribbon:
     - {abbr: "", title: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/iason-konstantzos-2539a353/"}
 
 
 -
@@ -43,10 +47,10 @@
   ribbon:
     - {abbr: "", title: ""}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mostafa-rafaie/"}
-    - {name: "site", link: "https://engineering.unl.edu/smart/rafaie/"}
     - {name: "twitter", link: "https://google.com/mo_rafaie"}
     - {name: "github", link: "https://github.com/rafaie"}
+    - {name: "site", link: "https://engineering.unl.edu/smart/rafaie/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mostafa-rafaie/"}
 
 -
   id: 100

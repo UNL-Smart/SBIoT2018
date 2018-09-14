@@ -197,7 +197,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "About Us text ..... ."
+aboutUs: ""
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
