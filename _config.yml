@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SBIoT2018 - Smart Building and Internet of Things Workshop 2018"
 email: "falsaleem2@unl.edu"
 description: "It's the worshop about Smart Building and Internet of Things Workshop in Omaha!"
-baseurl: "/SBIT2018"
+baseurl: "/SBIoT2018"
 url: "https://unl-smart.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-111742189-2"
