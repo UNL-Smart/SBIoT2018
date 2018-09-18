@@ -80,7 +80,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Invited speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -176,7 +176,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://engineering.unl.edu/durhamschool/", text: "DURHAM School of Architectural Eengineering & Construction"}
+   - {link: "https://engineering.unl.edu/durhamschool/", text: "Durham School of Architectural Engineering & Construction"}
    - {link: "https://engineering.unl.edu/smart/", text: "Smart Buildings and IoT Research Lab"}
  -
   title: "Contacts"

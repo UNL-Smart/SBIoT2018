@@ -9,15 +9,16 @@
   rockstar: true
   social:
     - {name: "site", link: "http://www.synergylabs.org/bharath/"}
+
 -
-  id: 101
-  name: "Hung"
-  surname: "Pham"
-  company: "Emerson Climate Technologies"
-  title: "Director Integrated Technologies in Emerson Commercial & Residential Solutions Business"
-  bio: "<p>Hung Pham is Director Integrated Technologies in Emerson Commercial & Residential Solutions Business with over 40 years of experience in HVAC industry and system technology integration involving refrigerants, control and diagnostic solutions. He currently leads innovations efforts for residential and light commercial HVAC at the Emerson Helix innovation center.</p>"
-  thumbnailUrl: HungPham.jpg
-  rockstar: false
+  id: 106
+  name: "Marina"
+  surname: "Sofos"
+  company: "U.S. Department of Energy"
+  title: " Ph.D. – Sensors and Controls Technology Manager"
+  bio: "<p>Marina Sofos is a Technology Manager in the Building Technologies Office at the U.S. Department of Energy. In this role she manages the building sensors and controls technology portfolio within the Emerging Technologies Program. Prior to taking this position, she was a Technology Manager in the Advanced Manufacturing Office where she led the development of the office’s program in scaling up manufacturing approaches for wide bandgap semiconductors and power electronics to enable reductions in cost and improvements in performance efficiency. Her overall interests are in improving power conversion and management technologies through advancements in semiconductor materials and control strategies.</p><p>Sofos began her career at the Department of Energy as an AAAS Science and Technology Policy Fellow (2010-2012) responsible for coordinating the U.S.-China cooperative clean energy R&D portfolio managed by the Office of Energy Efficiency and Renewable Energy.</p> <p>Her research background is in the design of novel inorganic and organic semiconductor hybrid nanostructures to improve their performance in electronic and energy conversion applications. She earned her Sc.B. from Brown University and Ph.D. from Northwestern University both in materials science and engineering and conducted her postdoctoral studies at Argonne National Laboratory.</p>"
+  thumbnailUrl: MARINA_PORTRAIT_DSC2453-2.jpg
+  rockstar: true
 
 -
   id: 102
@@ -37,6 +38,16 @@
   title: "Professor • RASEI Associate Director • Charles Victor Schelke Endowed Chair • Professional Engineer (PE)"
   bio: "<p>I am a professor of architectural engineering in the Department of Civil, Environmental, and Architectural Engineering at the University of Colorado Boulder. At the undergraduate level, the architectural engineering programs aims at educating engineers to design high-performance commercial buildings such as offices, schools, hospitals, and industrial facilities. At the graduate level, our building systems engineering program investigates emerging trends and issues revolving around low-energy high performance building design concepts, renewable energy solutions applied to buildings, and novel approaches to building control and performance analysis.</p><p>My research emphasizes model-based predictive optimal control and model-free reinforcement learning control of building energy systems and building thermal mass, model-based benchmarking of building operational performance, whole-building fault detection and diagnosis, control strategies for mixed-mode buildings that incorporate both natural and mechanical ventilation, uncertainty quantification of occupant behavior and its impact, energy analytics and decision analysis as well as the integration of building energy system operations with the electric grid system.</p>"
   thumbnailUrl: GREGOR.P.HENZE.jpg
+  rockstar: false
+
+-
+  id: 101
+  name: "Hung"
+  surname: "Pham"
+  company: "Emerson Climate Technologies"
+  title: "Director Integrated Technologies in Emerson Commercial & Residential Solutions Business"
+  bio: "<p>Hung Pham is Director Integrated Technologies in Emerson Commercial & Residential Solutions Business with over 40 years of experience in HVAC industry and system technology integration involving refrigerants, control and diagnostic solutions. He currently leads innovations efforts for residential and light commercial HVAC at the Emerson Helix innovation center.</p>"
+  thumbnailUrl: HungPham.jpg
   rockstar: false
 
 -
