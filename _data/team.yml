@@ -8,7 +8,7 @@
   ribbon:
     - {abbr: "", title: ""}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fadi-alsaleem-phd-a0542922/"}    
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fadi-alsaleem-phd-a0542922/"}
     - {name: "site", link: "https://engineering.unl.edu/durhamschool/faculty/fadi-alsaleem/"}
 
 -
@@ -88,6 +88,18 @@
     - {abbr: "", title: ""}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/adelkabiri/"}
+
+-
+  id: 103
+  name: "Mehari"
+  surname: "K. Tesfay"
+  title: ""
+  thumbnailUrl: Mehari.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mehari-k-tesfay-b5966542/"}
 
 
 # -
