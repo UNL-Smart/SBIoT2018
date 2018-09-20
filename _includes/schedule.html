@@ -1,6 +1,10 @@
 <!-- Begin Schedule Section -->
+
 <section id="schedule" class="schedule">
-    <div class="content-wrapper">
+  <p class="col-lg-8 col-md-10 col-md-offset-1" align="left">
+  Schedule not yet finalized.
+  </p>
+      <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -52,7 +56,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>

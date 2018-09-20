@@ -39,19 +39,19 @@ c4sponsorsUrl: "mailto:falsaleem2@unl.edu?subject=Become a Sponser"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "news"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 
 
 bottomNavigationLinks:
- - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a Sponser", text: "Become a Sponser"}
 
 rightNavigationButtons:
- - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a Sponser", text: "Become a Sponser"}
 
 # Hero Block
 heroImage: "omaha3.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"UNL", "Omaha", "Nebraska"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
- - {link: "mailto:falsaleem2@unl.edu?subject=Become a Speaker", text: "Become a speaker"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a Sponser", text: "Become a Sponser"}
 
 # About Block
 aboutTitle: "About SBIoT Workshop"
@@ -71,16 +71,16 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "40", specialCharacter: "+", info: "attendees", detail: "from business and academia"}
- - {count: "8", specialCharacter: "", info: "hours", detail: "of presentations, panels, and networking"}
- - {count: "8", specialCharacter: "+", info: "presentations", detail: "of various IoT topics"}
+ - {count: "", specialCharacter: "Full", info: "DAY", detail: "of presentations, panels, and networking"}
+ - {count: "9", specialCharacter: "+", info: "PRESENTATIONS", detail: "from business, government and academia"}
+ - {count: "Free", specialCharacter: "", info: "ATTENDANCE", detail: "space is limited"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 9
 rockstarSpeakersTitle: "Invited speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -117,7 +117,7 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizer"
-partnersTitle: "Partners"
+partnersTitle: "Special Thanks to"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block

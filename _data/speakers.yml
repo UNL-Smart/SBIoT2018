@@ -11,13 +11,23 @@
     - {name: "site", link: "http://www.synergylabs.org/bharath/"}
 
 -
-  id: 106
-  name: "Marina"
-  surname: "Sofos"
-  company: "U.S. Department of Energy"
-  title: " Ph.D. – Sensors and Controls Technology Manager"
-  bio: "<p>Marina Sofos is a Technology Manager in the Building Technologies Office at the U.S. Department of Energy. In this role she manages the building sensors and controls technology portfolio within the Emerging Technologies Program. Prior to taking this position, she was a Technology Manager in the Advanced Manufacturing Office where she led the development of the office’s program in scaling up manufacturing approaches for wide bandgap semiconductors and power electronics to enable reductions in cost and improvements in performance efficiency. Her overall interests are in improving power conversion and management technologies through advancements in semiconductor materials and control strategies.</p><p>Sofos began her career at the Department of Energy as an AAAS Science and Technology Policy Fellow (2010-2012) responsible for coordinating the U.S.-China cooperative clean energy R&D portfolio managed by the Office of Energy Efficiency and Renewable Energy.</p> <p>Her research background is in the design of novel inorganic and organic semiconductor hybrid nanostructures to improve their performance in electronic and energy conversion applications. She earned her Sc.B. from Brown University and Ph.D. from Northwestern University both in materials science and engineering and conducted her postdoctoral studies at Argonne National Laboratory.</p>"
-  thumbnailUrl: MARINA_PORTRAIT_DSC2453-2.jpg
+  id: 103
+  name: "Gregor P."
+  surname: "Henze"
+  company: "University of Colorado Boulder"
+  title: "Professor • RASEI Associate Director • Charles Victor Schelke Endowed Chair • Professional Engineer (PE)"
+  bio: "<p>I am a professor of architectural engineering in the Department of Civil, Environmental, and Architectural Engineering at the University of Colorado Boulder. At the undergraduate level, the architectural engineering programs aims at educating engineers to design high-performance commercial buildings such as offices, schools, hospitals, and industrial facilities. At the graduate level, our building systems engineering program investigates emerging trends and issues revolving around low-energy high performance building design concepts, renewable energy solutions applied to buildings, and novel approaches to building control and performance analysis.</p><p>My research emphasizes model-based predictive optimal control and model-free reinforcement learning control of building energy systems and building thermal mass, model-based benchmarking of building operational performance, whole-building fault detection and diagnosis, control strategies for mixed-mode buildings that incorporate both natural and mechanical ventilation, uncertainty quantification of occupant behavior and its impact, energy analytics and decision analysis as well as the integration of building energy system operations with the electric grid system.</p>"
+  thumbnailUrl: GREGOR.P.HENZE.jpg
+  rockstar: true
+
+-
+  id: 104
+  name: "Srinivas"
+  surname: "Katipamula"
+  company: "Pacific Northwest National Laboratory"
+  title: "Staff Scientist"
+  bio: "<p>Srinivas Katipamula is a Staff Scientist at Pacific Northwest National Laboratory (PNNL).  At PNNL, Dr. Katipamula leads a number of research projects in advanced controls, automated fault detection and diagnostics, building operations and building-grid integration.  For over 25 years, Katipamula’s career has focused on improving the operating efficiency of commercial buildings.  Prior to joining PNNL, he led the analytics group at the Enron Energy Services.  Previously, he also worked at Energy Systems Laboratory, at Texas A&M University, where he developed a number of measurement and verification techniques to measure energy savings from retrofits.  He has extensive technical experience in the evaluation of advanced design concepts for heating, ventilation and air-conditioning systems, development of automated fault detection and diagnostic techniques, self-correcting controls, building and energy system simulations, and analysis and evaluation of new energy efficient technologies, development and use of analytical modeling techniques.</p> <p>A fellow of the American Society for Heating, Refrigeration and Air Conditioning Engineers and the American Society of Mechanical Engineers.  Nationally, Katipamula held a number of positions, including serving as a member of California Technical Forum, ASHRAE Standards Committee, Air Conditioning and Refrigeration Technology Institute, reviewing proposals for National Science Foundation and Advanced Research Projects Agency-Energy and also served as an associate editor of the ASME Journal of Energy Resources Technology from 2006 to 2014.</p>"
+  thumbnailUrl: Katipamula.jpg
   rockstar: true
 
 -
@@ -31,34 +41,14 @@
   rockstar: true
 
 -
-  id: 103
-  name: "Gregor P."
-  surname: "Henze"
-  company: "University of Colorado Boulder"
-  title: "Professor • RASEI Associate Director • Charles Victor Schelke Endowed Chair • Professional Engineer (PE)"
-  bio: "<p>I am a professor of architectural engineering in the Department of Civil, Environmental, and Architectural Engineering at the University of Colorado Boulder. At the undergraduate level, the architectural engineering programs aims at educating engineers to design high-performance commercial buildings such as offices, schools, hospitals, and industrial facilities. At the graduate level, our building systems engineering program investigates emerging trends and issues revolving around low-energy high performance building design concepts, renewable energy solutions applied to buildings, and novel approaches to building control and performance analysis.</p><p>My research emphasizes model-based predictive optimal control and model-free reinforcement learning control of building energy systems and building thermal mass, model-based benchmarking of building operational performance, whole-building fault detection and diagnosis, control strategies for mixed-mode buildings that incorporate both natural and mechanical ventilation, uncertainty quantification of occupant behavior and its impact, energy analytics and decision analysis as well as the integration of building energy system operations with the electric grid system.</p>"
-  thumbnailUrl: GREGOR.P.HENZE.jpg
-  rockstar: false
-
--
-  id: 101
-  name: "Hung"
-  surname: "Pham"
-  company: "Emerson Climate Technologies"
-  title: "Director Integrated Technologies in Emerson Commercial & Residential Solutions Business"
-  bio: "<p>Hung Pham is Director Integrated Technologies in Emerson Commercial & Residential Solutions Business with over 40 years of experience in HVAC industry and system technology integration involving refrigerants, control and diagnostic solutions. He currently leads innovations efforts for residential and light commercial HVAC at the Emerson Helix innovation center.</p>"
-  thumbnailUrl: HungPham.jpg
-  rockstar: false
-
--
-  id: 104
-  name: "Srinivas"
-  surname: "Katipamula"
-  company: "Pacific Northwest National Laboratory"
-  title: "Staff Scientist"
-  bio: "<p>Srinivas Katipamula is a Staff Scientist at Pacific Northwest National Laboratory (PNNL).  At PNNL, Dr. Katipamula leads a number of research projects in advanced controls, automated fault detection and diagnostics, building operations and building-grid integration.  For over 25 years, Katipamula’s career has focused on improving the operating efficiency of commercial buildings.  Prior to joining PNNL, he led the analytics group at the Enron Energy Services.  Previously, he also worked at Energy Systems Laboratory, at Texas A&M University, where he developed a number of measurement and verification techniques to measure energy savings from retrofits.  He has extensive technical experience in the evaluation of advanced design concepts for heating, ventilation and air-conditioning systems, development of automated fault detection and diagnostic techniques, self-correcting controls, building and energy system simulations, and analysis and evaluation of new energy efficient technologies, development and use of analytical modeling techniques.</p> <p>A fellow of the American Society for Heating, Refrigeration and Air Conditioning Engineers and the American Society of Mechanical Engineers.  Nationally, Katipamula held a number of positions, including serving as a member of California Technical Forum, ASHRAE Standards Committee, Air Conditioning and Refrigeration Technology Institute, reviewing proposals for National Science Foundation and Advanced Research Projects Agency-Energy and also served as an associate editor of the ASME Journal of Energy Resources Technology from 2006 to 2014.</p>"
-  thumbnailUrl: Katipamula.jpg
-  rockstar: false
+  id: 111
+  name: "Cory"
+  surname: "Mosiman"
+  company: "WSP USA"
+  title: "Smart Building Specialist"
+  bio: "<p> Cory Mosiman is a Smart Building Specialist at WSP USA and his role is to research a wide range of building technologies and platforms, ranging from traditional mechanical / lighting / electrical systems, to integration platforms and Internet of Things solutions, in order to understand their functionality, capabilities, and limitations.  At WSP USA, we install, commission, integrate, and test systems in our ThinkBOLD&R innovation center located in Boulder, CO, gaining hands on experience with individual systems.  Cory’s experience and knowledge of Smart Buildings is essential in today's highly dynamic and rapidly evolving environment, providing us with the skills and experience to make informed recommendations to clients, both for individual systems or solutions comprised of integrated systems.  Expressing this creativity and understanding in the context of building systems allows our team to create truly SMART buildings and environments. It's like playing Legos with technology - understanding how specific pieces fit together to create the Millennium Falcon, Navy Destroyer, or Hogwarts Express.  </p>"
+  thumbnailUrl: Cory_Mosiman.jpg
+  rockstar: true
 
 -
   id: 105
@@ -68,9 +58,18 @@
   title: "Associate Professor"
   bio: "<p>Zheng O’Neill is an Associate Professor at Department of Mechanical Engineering in the University of Alabama. She is also an Adjunct Professor of Architectural Engineering and an Assistant Director of Alabama Industrial Assessment Center. She was a Principal Investigator at United Technologies Research Center from 2006 to 2013, where she was responsible for the development and field-implement of advanced building optimal controls, building performance monitoring, and energy diagnostics. Her current research emphasized intelligent building operations, control strategies for demand control ventilation, uncertainty quantifications in buildings, ground source heat pump systems, and smart, resilient and connected community. Her current research is supported by ASHRAE, NSF, DOE, ARPA-E, and industry. Zheng is a registered Professional Engineer and an active member of ASHRAE and IBPSA. She received 2010 UTRC Outstanding Achievement Award, 2013 Best Paper Award from Journal of building simulation, 2015 DOE IAC junior faculty research award, 2016 Educator of the Year from ASHRAE Birmingham Chapter, and 2017 ASHRAE Innovative Research Grant Award. </p>"
   thumbnailUrl: ONeill-Zhang.jpg
-  rockstar: false
+  rockstar: true
 
 
+-
+  id: 101
+  name: "Hung"
+  surname: "Pham"
+  company: "Emerson Climate Technologies"
+  title: "Director Integrated Technologies in Emerson Commercial & Residential Solutions Business"
+  bio: "<p>Hung Pham is Director Integrated Technologies in Emerson Commercial & Residential Solutions Business with over 40 years of experience in HVAC industry and system technology integration involving refrigerants, control and diagnostic solutions. He currently leads innovations efforts for residential and light commercial HVAC at the Emerson Helix innovation center.</p>"
+  thumbnailUrl: HungPham.jpg
+  rockstar: true
 
 -
   id: 110
@@ -80,14 +79,14 @@
   title: "Chief Research Officer"
   bio: "<p>Dr. Owen Redwood is the Chief Research Officer at NARI. Dr. Redwood earned his M.S. and Ph.D. degrees in Computer Science from the Florida State University, focusing on vulnerability research and virtualization research of cyber physical systems. Dr. Redwood earned his B.S. in Computer Science from the Georgia Institute of Technology. His research background spans IT and OT vulnerability research, reverse engineering, cyber physical systems virtualization research, hybrid approaches for static/dynamic/symbolic analysis, physical-impact payload development, and automated exploitation and mitigation. Dr. Redwood also created and maintains the “Offensive Computer Security” online open-courseware which has been adopted by faculty members at over 20 universities and is the world’s top open-courseware on vulnerability research and exploitation. </p> <p> In a past life, Dr. Redwood was a member of the Raytheon Deep Red team for the DARPA Cyber Grand Challenge, where he focused on automating vulnerability discovery, vulnerability mitigation, and exploitation.  He also previously worked for Sandia National Labs and another government cybersecurity research and development organization focusing on securing critical infrastructure. Dr. Redwood’s past cyber physical system vulnerability research has covered devices in energy critical infrastructure, oil/gas critical infrastructure, maritime systems, vehicular systems, building automation systems, and more. Dr. Redwood has a Global Industrial Cyber Security Professional (GICSP) certification, and has passed the CISSP exam and is awaiting the CISSP certification award currently </p>"
   thumbnailUrl: Owen_Redwood_Web.jpg
-  rockstar: false
+  rockstar: true
 
 -
-  id: 111
-  name: "Cory"
-  surname: "Mosiman"
-  company: "Building Technology Systems"
-  title: "Smart Building Specialist"
-  bio: "<p> Cory Mosiman is a Smart Building Specialist at WSP USA and his role is to research a wide range of building technologies and platforms, ranging from traditional mechanical / lighting / electrical systems, to integration platforms and Internet of Things solutions, in order to understand their functionality, capabilities, and limitations.  At WSP USA, we install, commission, integrate, and test systems in our ThinkBOLD&R innovation center located in Boulder, CO, gaining hands on experience with individual systems.  Cory’s experience and knowledge of Smart Buildings is essential in today's highly dynamic and rapidly evolving environment, providing us with the skills and experience to make informed recommendations to clients, both for individual systems or solutions comprised of integrated systems.  Expressing this creativity and understanding in the context of building systems allows our team to create truly SMART buildings and environments. It's like playing Legos with technology - understanding how specific pieces fit together to create the Millennium Falcon, Navy Destroyer, or Hogwarts Express.  </p>"
-  thumbnailUrl: Cory_Mosiman.jpg
-  rockstar: false
+  id: 106
+  name: "Marina"
+  surname: "Sofos"
+  company: "U.S. Department of Energy"
+  title: " Ph.D. – Sensors and Controls Technology Manager"
+  bio: "<p>Marina Sofos is a Technology Manager in the Building Technologies Office at the U.S. Department of Energy. In this role she manages the building sensors and controls technology portfolio within the Emerging Technologies Program. Prior to taking this position, she was a Technology Manager in the Advanced Manufacturing Office where she led the development of the office’s program in scaling up manufacturing approaches for wide bandgap semiconductors and power electronics to enable reductions in cost and improvements in performance efficiency. Her overall interests are in improving power conversion and management technologies through advancements in semiconductor materials and control strategies.</p><p>Sofos began her career at the Department of Energy as an AAAS Science and Technology Policy Fellow (2010-2012) responsible for coordinating the U.S.-China cooperative clean energy R&D portfolio managed by the Office of Energy Efficiency and Renewable Energy.</p> <p>Her research background is in the design of novel inorganic and organic semiconductor hybrid nanostructures to improve their performance in electronic and energy conversion applications. She earned her Sc.B. from Brown University and Ph.D. from Northwestern University both in materials science and engineering and conducted her postdoctoral studies at Argonne National Laboratory.</p>"
+  thumbnailUrl: MARINA_PORTRAIT_DSC2453-2.jpg
+  rockstar: true
