@@ -20,4 +20,4 @@ but we've already secured a first batch of experts:
 * **Dr.	David	Lehrer** - Communications Director / Researcher in Center for the Built Environment (CBE), Berkeley<br>
 * **Prof.	Gregor P. Henze** - Professor of architectural engineering at the University of Colorado Boulder <br>
 * **Dr.	Srinivas Katipamula** -  Staff Scientist at Pacific Northwest National Laboratory (PNNL)<br>
-* **Mr.	Hung 	Pham** - Director of Integrated Tech., Emerson Climate Technology<br>
+* **Mr.	Hung 	Pham** - Director of Integrated Tech., Emerson Commercial & Residential Solutions<br>
