@@ -15,7 +15,7 @@ email: "falsaleem2@unl.edu"
 description: "It's the worshop about Smart Building and Internet of Things Workshop in Omaha!"
 baseurl: "/SBIoT2018"
 url: "https://unl-smart.github.io"
-permalink: "/blog/:title"
+permalink: "/news/#:title"
 googleAnalyticsTrackingId: "UA-111742189-2"
 googleAnalyticsSiteUrl: "unl-smart.github.io"
 siteVerification: "oLvRaMCG-O0M2OhV2caQ49GoGDl_97mq731dnYj4Ibg"
@@ -39,7 +39,7 @@ c4sponsorsUrl: "mailto:falsaleem2@unl.edu?subject=Become a Sponser"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "news"}
+ - {permalink: "/news/", text: "news"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -71,12 +71,12 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "", specialCharacter: "Full", info: "DAY", detail: "of presentations, panels, and networking"}
- - {count: "9", specialCharacter: "+", info: "PRESENTATIONS", detail: "from business, government and academia"}
- - {count: "Free", specialCharacter: "", info: "ATTENDANCE", detail: "space is limited"}
+ - {count: "", specialCharacter: "Full", info: "DAY", detail: "of presentations, panels, and networking", url: "./schedule"}
+ - {count: "9", specialCharacter: "+", info: "PRESENTATIONS", detail: "from business, government and academia", url: "./speakers"}
+ - {count: "Free", specialCharacter: "", info: "ATTENDANCE", detail: "space is limited", url: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
