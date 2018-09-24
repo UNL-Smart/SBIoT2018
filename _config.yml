@@ -170,14 +170,13 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=test", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
    - {link: "https://engineering.unl.edu/durhamschool/", text: "Durham School of Architectural Engineering & Construction"}
-   - {link: "https://engineering.unl.edu/smart/", text: "Smart Buildings and IoT Research Lab"}
+
  -
   title: "Contacts"
   links:

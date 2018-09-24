@@ -5,8 +5,7 @@ date:   2018-08-25 10:00:00
 isStaticPost: true
 ---
 
-We’re very excited not just because of the inordinate amount of caffeinated products consumed,
-but also because our team is putting together the final touches for the Omaha  - [SBIT2018 Workshop](https://unl-smart.github.io/SBIT2018).
+We’re very excited because our team is putting together the final touches for the Omaha  - [SBIoT2018 Workshop](https://unl-smart.github.io/SBIT2018).
 
 So should you also be excited? Well yes... and here's why!
 
