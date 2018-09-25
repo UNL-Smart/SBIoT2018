@@ -74,6 +74,13 @@
   service: true
   description: ""
 -
+  id: 1019
+  title: "Automating the Balance of Energy Performance with Occupant Comfort with Smart Fenestrations"
+  place: "Hall"
+  speakers: [112]
+  service: true
+  description: ""
+-
   id: 1014
   title: "Cyber Attacks, Pivots and Impacts in Smart Building Networks"
   place: "Hall"
