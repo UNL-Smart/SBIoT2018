@@ -1,4 +1,5 @@
 -
   group: ""
   elements:
-    - {name: "Emerson Commercial & Residential Solutions", description: "Emerson Commercial & Residential Solutions", link: "https://climate.emerson.com/en-us", imageUrl: "Emerson_2cProc.jpg"}
+    - {name: "Emerson Commercial & Residential Solutions", description: "Emerson Commercial & Residential Solutions", width: "280px", link: "https://climate.emerson.com/en-us", imageUrl: "Emerson_2cProc.jpg"}
+    - {name: "HDR", description: "HDR", link: "https://www.hdrinc.com/", imageUrl: "HDR_Logo_4C.jpg", width: "140px"}

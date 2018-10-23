@@ -22,71 +22,68 @@
   title: "New Technologies for Occupant-Responsive Buildings"
   place: "Hall"
   speakers: [102]
-  service: true
   description: ""
 -
   id: 1011
   title: "Smart Buildings: A Manufacturer’s Perspective"
   place: "Hall"
   speakers: [101]
-  service: true
   description: ""
 -
   id: 1012
   title: "Benefits from Integration of Smart Buildings with the Smart Electric Grid"
   place: "Hall"
   speakers: [104]
-  service: true
   description: ""
 -
   id: 1013
   title: "Data Driven Buildings"
   place: "Hall"
   speakers: [100]
-  service: true
   description: ""
 -
   id: 1015
   title: "Battery-Free RFID Sensor Network with Spatiotemporal Pattern Network-Based Data Fusion System for Human Presence Sensing"
   place: "Hall"
   speakers: [103]
-  service: true
-  description: ""
+  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
 -
   id: 1016
   title: "Evaluating the Value of Intelligent Building Systems: A Case Study"
   place: "Hall"
   speakers: [111]
-  service: true
   description: ""
 -
   id: 1017
   title: "Quantification of HVAC Energy Savings for Occupancy Sensing in Buildings through an Innovative Testing Methodology"
   place: "Hall"
   speakers: [105]
-  service: true
   description: ""
 -
   id: 1018
   title: "DOE Perspective: Emerging Technologies for Efficient Smart Buildings"
   place: "Hall"
   speakers: [106]
-  service: true
   description: ""
 -
   id: 1019
   title: "Automating the Balance of Energy Performance with Occupant Comfort with Smart Fenestrations"
   place: "Hall"
   speakers: [112]
-  service: true
   description: ""
 -
   id: 1014
   title: "Cyber Attacks, Pivots and Impacts in Smart Building Networks"
   place: "Hall"
   speakers: [110]
-  service: true
   description: ""
+-
+  id: 1022
+  title: "Industry Challenges - Design, Construction and Operation of SBIoT Systems"
+  place: "Hall"
+  speakers: [115]
+  description: ""
+
 -
   id: 1020
   title: "Panel Discussion"
