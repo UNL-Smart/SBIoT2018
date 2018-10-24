@@ -6,7 +6,7 @@
 
   timeslots:
     - {
-    	startTime: "07:00",
+    	startTime: "07:30",
     	endTime: "08:00",
     	sessionIds: [1000, 1001]
     }
@@ -16,55 +16,72 @@
     	sessionIds: [1002]
     }
     - {
-    	startTime: "08:15",
+    	startTime: "08:20",
     	endTime: "08:40",
-    	sessionIds: [1010]
-    }
-    - {
-    	startTime: "08:40",
-    	endTime: "09:00",
     	sessionIds: [1011]
     }
     - {
-    	startTime: "09:00",
-    	endTime: "09:30",
-    	sessionIds: [1012]
-    }
-    - {
-    	startTime: "09:30",
-    	endTime: "10:00",
-    	sessionIds: [1015]
-    }
-    - {
-    	startTime: "10:00",
-    	endTime: "10:20",
-    	sessionIds: [307]
-    }
-    - {
-    	startTime: "10:20",
-    	endTime: "10:50",
+    	startTime: "08:45",
+    	endTime: "09:05",
     	sessionIds: [1013]
     }
     - {
-    	startTime: "10:50",
-    	endTime: "11:15",
-    	sessionIds: [1016]
+    	startTime: "09:10",
+    	endTime: "09:30",
+    	sessionIds: [1010]
     }
     - {
-    	startTime: "11:15",
-    	endTime: "11:40",
-    	sessionIds: [1017]
+    	startTime: "09:35",
+    	endTime: "10:00",
+    	sessionIds: [1018]
     }
     - {
-    	startTime: "11:40",
-    	endTime: "12:15",
+    	startTime: "10:00",
+    	endTime: "10:15",
+    	sessionIds: [307]
+    }
+
+-
+  date: "2018-11-09"
+  dateReadable: "November 9"
+  tracks:
+    - {title: "Trends and Case Studies", color: "#90be4e"}
+    - {title: "Occupancy Detection", color: "#90be4e"}
+
+  timeslots:
+    - {
+    	startTime: "10:20",
+    	endTime: "10:40",
+    	sessionIds: [1012, 1015]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:05",
+    	sessionIds: [1016, 1017]
+    }
+    - {
+    	startTime: "11:10",
+    	endTime: "11:30",
+    	sessionIds: [1030, 1031]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:00",
     	sessionIds: [1014]
     }
     - {
-    	startTime: "12:15",
+    	startTime: "12:00",
     	endTime: "13:00",
-    	sessionIds: [503]
+    	sessionIds: [503,1022]
     }
+
+-
+  date: "2018-11-09"
+  dateReadable: "November 9"
+  tracks:
+    - {title: "SBIT2018", color: "#90be4e"}
+
+  timeslots:
     - {
     	startTime: "13:00",
     	endTime: "16:00",

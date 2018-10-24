@@ -1,4 +1,14 @@
 -
+  id: 116
+  name: "Lalit"
+  surname: "Agarwal"
+  company: "University of Nebraska–Lincoln (UNL)."
+  title: "Director of Utility &amp; Energy Management"
+  bio: "<p>Lalit Agarwal is the Director of Utility &amp; Energy Management at the University of Nebraska–Lincoln (UNL). He began his career as a computer analyst at UNL in 2000 as part of a team that designed and developed the 3rd generation of UNL’s proprietary building automation system. As facilities needs have morphed, Lalit has taken an increased responsibility for managing all facilities business systems and campus utility production, distribution and consumption. He has a Bachelor of Engineering degree in Mechanical Engineering from Osmania University in India and a Master of Business Administration from University of Nebraska–Lincoln. Lalit is an active member of APPA and received his Certified Educational Facilities Professional (CEFP) in November, 2017. He has presented at the various APPA and Big 10 and Friends conferences and is a guest instructor for the APPA Institute.</p>"
+  thumbnailUrl: Lalit.jpg
+  rockstar: true
+
+-
   id: 100
   name: "Bharathan"
   surname: "Balaji"
@@ -9,6 +19,19 @@
   rockstar: true
   social:
     - {name: "site", link: "http://www.synergylabs.org/bharath/"}
+
+-
+  id: 117
+  name: "Kristen"
+  surname: "Cetin"
+  company: "Department of Civil, Construction and Environmental Engineering"
+  title: "Assistant Professor"
+  bio: "<p>Dr. Kristen Cetin is an Assistant Professor in the Department of Civil, Construction and Environmental Engineering, with a courtesy appointment in Mechanical Engineering. She has over 9 years of experience in the building industry in both academia and industry, and is also a licensed Professional Engineer. Previously she worked at Simpson Gumpertz and Heger where she was involved in significant building systems and envelope performance and commissioning efforts. Her research focuses on the use of validated building energy modeling, data-driven modeling, IoT, and smart grid-connected technologies to improve building energy performance while maintaining occupant comfort. She currently leads several nationally-funded research projects, including funding from ARPA-E, ASHRAE, the National Science Foundation, and industry. She is an active member in ASHRAE, and is a technical committee member and Smart Grid sub-committee chair of TC 7.5 – Smart Building Systems, and member of TC 4.4 – Building Materials and Building Envelope Performance.</p>"
+  thumbnailUrl: Cetin.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://www.ccee.iastate.edu/kcetin/"}
+
 
 
 -
@@ -40,6 +63,7 @@
   bio: "<p>An accomplished and published engineer, Tim is a Vice President and Engineering Principal at HDR with over 30 years of experience. He is experienced in all phases of electrical and technology design from concept to commissioning, specializing in the many facets of healthcare design and planning including patient care, research, data-center, and campus infrastructure design.  Tim is a leader in the industry at integrating electronic medical records and the building management system to maximize both patient safety and energy savings in the operating room.  He has a passion for the design of sustainable integration methods for operational technology which support known use-cases on a future capable cyber-physical protected designed network.  He is also engaged on the ASHE Healthcare Code Review Committee, UNO AE Industry Mentor Program, and NARI-Cyber Test Bed Development Committee.</p>"
   thumbnailUrl: Koch.jpg
   rockstar: true
+
 
 -
   id: 102
