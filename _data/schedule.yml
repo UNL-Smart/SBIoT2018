@@ -2,7 +2,7 @@
   date: "2018-11-09"
   dateReadable: "November 9"
   tracks:
-    - {title: "SBIT2018", color: "#90be4e"}
+    - {title: "SBIoT2018", color: "#90be4e"}
 
   timeslots:
     - {
@@ -79,7 +79,7 @@
   date: "2018-11-09"
   dateReadable: "November 9"
   tracks:
-    - {title: "SBIT2018", color: "#90be4e"}
+    - {title: "SBIoT2018", color: "#90be4e"}
 
   timeslots:
     - {
