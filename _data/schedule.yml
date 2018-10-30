@@ -79,16 +79,41 @@
   date: "2018-11-09"
   dateReadable: "November 9"
   tracks:
-    - {title: "SBIoT2018", color: "#90be4e"}
+    - {title: "SBIoT2018 - Panel Discussion", color: "#90be4e"}
 
   timeslots:
     - {
     	startTime: "13:00",
-    	endTime: "16:00",
-    	sessionIds: [1020]
+    	endTime: "13:05",
+    	sessionIds: [1100]
     }
     - {
-    	startTime: "16:00",
+    	startTime: "13:05",
+    	endTime: "13:35",
+    	sessionIds: [1101]
+    }
+    - {
+    	startTime: "13:35",
+    	endTime: "14:05",
+    	sessionIds: [1102]
+    }
+    - {
+    	startTime: "14:05",
+    	endTime: "15:05",
+    	sessionIds: [1103]
+    }
+    - {
+    	startTime: "15:05",
+    	endTime: "15:35",
+    	sessionIds: [1104]
+    }
+    - {
+    	startTime: "15:35",
+    	endTime: "16:05",
+    	sessionIds: [1105]
+    }
+    - {
+    	startTime: "16:05",
     	endTime: "16:30",
-    	sessionIds: [1021]
+    	sessionIds: [1106]
     }

@@ -173,3 +173,60 @@
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+
+-
+  id: 1100
+  title: "Introductions"
+  place: "Hall"
+  speakers: []
+  service: true
+  description: ""
+
+-
+  id: 1101
+  title: "Act 1 Family Tree: DEFINE"
+  place: "Hall"
+  speakers: []
+  service: true
+  description: "Goal: Create a family tree for smart building technology, defining the space."
+
+-
+  id: 1102
+  title: "Act 2 Neighbors: WHO"
+  place: "Hall"
+  speakers: []
+  service: true
+  description: "Goal: Understand how the family tree translates into real relationships, partnerships, courses, and curriculum.  "
+
+-
+  id: 1103
+  title: "Act 3 Report Card: WHAT"
+  place: "Hall"
+  speakers: []
+  service: true
+  description: "Goal: To list and explain the implications of core components, industry needs, and academia objectives we must meet.  "
+
+-
+  id: 1104
+  title: "Act 4 Lesson Plan: HOW"
+  place: "Hall"
+  speakers: []
+  service: true
+  description: "Goal: Lay out how to execute against the parts and pieces laid out thus far."
+
+-
+  id: 1105
+  title: "Act 5 Pitch: WHY"
+  place: "Hall"
+  speakers: []
+  service: true
+  description: "Goal: Highlight why this is an opportunity not to be missed and what exactly it is we are proposing in a compelling, straightforward pitch. "
+
+-
+  id: 1106
+  title: "Wrap Up"
+  place: "Hall"
+  speakers: []
+  service: true
+  description: ""
