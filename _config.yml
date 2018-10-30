@@ -33,7 +33,7 @@ organizerLink: "https://engineering.unl.edu/smart/"
 
 # Documents
 c4pUrl: "mailto:falsaleem2@unl.edu?subject=Become a Speaker"
-c4sponsorsUrl: "mailto:falsaleem2@unl.edu?subject=Become a Sponser"
+# c4sponsorsUrl: "mailto:falsaleem2@unl.edu?subject=Become a sponsor"
 
 
 # Navigation
@@ -47,11 +47,11 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
- - {link: "mailto:falsaleem2@unl.edu?subject=Become a Sponser", text: "Become a Sponser"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a sponsor", text: "Become a sponsor"}
 
 rightNavigationButtons:
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
- - {link: "mailto:falsaleem2@unl.edu?subject=Become a Sponser", text: "Become a Sponser"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a sponsor", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "omaha3.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"UNL", "Omaha", "Nebraska"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://engineering.unl.edu/durhamschool/smart-building-workshop-registration/", text: "Attend Workshop"}
- - {link: "mailto:falsaleem2@unl.edu?subject=Become a Sponser", text: "Become a Sponser"}
+ - {link: "mailto:falsaleem2@unl.edu?subject=Become a sponsor", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About SBIoT Workshop"
