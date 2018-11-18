@@ -23,6 +23,7 @@
   place: "Hall"
   speakers: [102]
   description: "<p> This talk will provide an overview on our following research activities <ul> <li>Background about CBE's organization and research approach </li> <li> IoT innovations in commercial buildings </li> <li> An open source platform developed at UC Berkeley \"sMAP\" </li>  <li> New applications for comfort and indoor monitoring </li>  <li> Personal comfort systems (individualized comfort), furniture, wearables, fans </li> <li> Smart HVAC control approaches for conventional VAV buildings </li> </ul> </p>"
+  presentation: LEHRER-SBIoT-workshop-Nov-2018.pdf
 
 
 -
@@ -31,18 +32,22 @@
   place: "Hall"
   speakers: [101]
   description: " <p> Perspectives and framework for smart (intelligent) buildings from an HVAC manufacturer will be shared.  The presentation will review the converging mega trends driving smart buildings including the connectivity/IoT/sensors/controls/automation enablers, the building operational and sustainability needs, the desire for grid interactions, the users/stakeholders values desirability, cost effectiveness and barriers for mass adoption. </p> <p>The scope of smart buildings will also be discussed including the degree of ‘smart’ from the stakeholder’s viewpoint depending whether they are the tenants, building owners, service contractors, utility providers, the manufacturers, or the government, and whether the focus is on comfort, safety, environment health, energy, or operational productivity, and whether the application is Residential or Commercial buildings and whether they are new or existing buildings. </p> <p> The eco-system architecture layers will be also reviewed regarding the breadth and depth of ‘smartness’ from an integration standpoint ranging from the grid, to the building BMS, to the building systems (HVAC/Lighting/plug loads), and subsystems/components.  Can a building be smart without its sublevels be smart and connected ?  State of smart buildings R&D activities will also be reviewed across various organizations including government national labs, universities, ASHRAE, manufacturers, etc. hopefully to identify gaps and foster increased collaboration. </p>"
+
 -
   id: 1012
   title: "Benefits from Integration of Smart Buildings with the Smart Electric Grid"
   place: "Hall"
   speakers: [104]
   description: ""
+  presentation: Srinivas Katipamula 2018 Smart Building IoT Workshop 2018 -11-04.pdf
+
 -
   id: 1013
   title: "Data Driven Buildings"
   place: "Hall"
   speakers: [100]
   description: ""
+
 -
   id: 1015
   title: "Battery-Free RFID Sensor Network with Spatiotemporal Pattern Network-Based Data Fusion System for Human Presence Sensing"
@@ -56,18 +61,23 @@
   place: "Hall"
   speakers: [111]
   description: "<p> As increasingly more Internet of Things solutions come to market, real-estate developers and traditional consulting engineers are overwhelmed with potential options.  These solutions often solve a very specific issue, and use different methodologies and technologies to arrive at a solution.  We will share our perspectives on how we help developers navigate this space, using the lessons we have learned in implementing our ThinkBOLDR innovation lab, and share some lessons learned.</p>"
+  presentation: 2018-11-08 SBIoT UNL.PDF
 -
   id: 1017
   title: "Quantification of HVAC Energy Savings for Occupancy Sensing in Buildings through an Innovative Testing Methodology"
   place: "Hall"
   speakers: [105]
   description: "<p> To quantify the deep heating ventilation and air-conditioning (HVAC) energy saving potential from emerging occupancy sensing technologies in commercial and residential buildings, we propose to design a novel testing and validation protocol with an eight-level diversity and simulation suite. We will investigate various types of occupancy sensors (e.g., human presence sensing, people counting, CO2 sensors) for detection failure rates and HVAC energy saving potential associated with occupancy sensor-driven control in a wide range of real-world applications. This talk will give an overview of this interdisciplinary effort that integrates advanced technologies from mechanical, electrical and computer engineering; statistical data analytics; building energy simulation and controls to provide a solution to complex sensor-driven cyber-physical systems in smart buildings. </p>"
+  presentation: Quantification of HVAC Energy Savings for Occupancy Sensing in Buildings through an Innovative Testing Methodology_Final.pdf
+
 -
   id: 1018
   title: "DOE Perspective: Emerging Technologies for Efficient Smart Buildings"
   place: "Hall"
   speakers: [106]
   description: "<p> This talk will provide an overview of the U.S. Department of Energy’s Building Technologies Office R&D strategy and energy savings goals for smart building technologies.  The portfolio focuses on developments in managing multiple building subsystems (e.g., HVAC, refrigeration, and lighting) at the whole-building level; executing more complex strategies over longer temporal periods (e.g., hours and days rather than minutes) and at multiple spatial scales (e.g., occupant, zone, whole-building, campus); incorporating diagnostics, predictions (e.g., occupancy patterns, weather forecasts) and prescriptions along with current state information; and employing optimization techniques rather than rules.  Recent efforts in the development of testing frameworks and procedures, along with curated datasets to support the R&D community at-large through common baselines to evaluate performance improvements and encourage additional innovation in advanced analytics and control strategies, will also be discussed</p>"
+  presentation: Sofos - Nebraska 11 09 18 final.pdf
+
 -
   id: 1019
   title: "Automating the Balance of Energy Performance with Occupant Comfort with Smart Fenestrations"
@@ -81,6 +91,7 @@
   place: "Hall"
   speakers: [116]
   description: "<p>Over the past two decades, UNL’s Energy Use Index has decreased nearly 40%, while enrollment and research funding increased significantly. One of the primary factors influencing this is the high degree of connectivity of our education and research buildings. For 30+ years, we have used a “home grown” DDC building automation system. Now in its 3rd generation, this BAS has given UNL the flexibility to easily add new features and control logic, and the relatively low installation costs allow multi-point controllers in almost every room. In addition to system control and energy optimization, the BAS collects and analyzes data for planned and predictive maintenance, utility metering with smart response, integration with the Utility Plant SCADA system, and provides a gateway to the Fault Detection and Diagnostics system which now monitors about 50% of the equipment on campus. We intend to review the big-data capabilities of these integrated systems and provide practical illustrations of how they have resulted in energy and operating savings. </p>"
+  presentation: Automation Controls and Energy and Maintenance Savings at UNL.pdf
 
 -
   id: 1031
@@ -101,6 +112,7 @@
   place: "Hall"
   speakers: [115]
   description: ""
+  presentation: SBIoT 2018 11 09 rv4.pdf
 
 -
   id: 1020
