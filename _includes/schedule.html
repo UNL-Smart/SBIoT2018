@@ -53,6 +53,9 @@
                                                     <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position">{{ speaker.company }}</span>
+                                                        {% if session.presentation %}
+                                                        <a class="theme-presentation" href="{{site.baseurl}}/assets/{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+                                                        {% endif %}
                                                     </p>
                                                     </li>
                                                     {% endif %}
