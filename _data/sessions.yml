@@ -32,6 +32,7 @@
   place: "Hall"
   speakers: [101]
   description: " <p> Perspectives and framework for smart (intelligent) buildings from an HVAC manufacturer will be shared.  The presentation will review the converging mega trends driving smart buildings including the connectivity/IoT/sensors/controls/automation enablers, the building operational and sustainability needs, the desire for grid interactions, the users/stakeholders values desirability, cost effectiveness and barriers for mass adoption. </p> <p>The scope of smart buildings will also be discussed including the degree of ‘smart’ from the stakeholder’s viewpoint depending whether they are the tenants, building owners, service contractors, utility providers, the manufacturers, or the government, and whether the focus is on comfort, safety, environment health, energy, or operational productivity, and whether the application is Residential or Commercial buildings and whether they are new or existing buildings. </p> <p> The eco-system architecture layers will be also reviewed regarding the breadth and depth of ‘smartness’ from an integration standpoint ranging from the grid, to the building BMS, to the building systems (HVAC/Lighting/plug loads), and subsystems/components.  Can a building be smart without its sublevels be smart and connected ?  State of smart buildings R&D activities will also be reviewed across various organizations including government national labs, universities, ASHRAE, manufacturers, etc. hopefully to identify gaps and foster increased collaboration. </p>"
+  presentation: UNL SmartBldg 2018-11-09 EMR.pdf
 
 -
   id: 1012
@@ -47,6 +48,7 @@
   place: "Hall"
   speakers: [100]
   description: ""
+  presentation: SBIoT Bharath Presentation.pdf
 
 -
   id: 1015
@@ -84,6 +86,7 @@
   place: "Hall"
   speakers: [112]
   description: ""
+  presentation: SBIOT_WorkshopKCetin.pdf
 
 -
   id: 1030
@@ -99,6 +102,7 @@
   place: "Hall"
   speakers: [117]
   description: "<p>As buildings work towards reducing energy demands, and improved interaction with the electric grid, while maintaining a both thermally and visually comfortable environment for occupants, fenestrations are a key influential component in this effort. Fenestrations allow for natural daylight and outdoor views, but also represent the least thermally efficient portion of the building envelope, as well as a source of unwanted discomfort glare and direct sunlight. A multi-layered, dynamically-operated fenestration system that can be installed in new buildings or retrofitted for an existing building can help address building energy use and occupant comfort needs under a diverse range of climate conditions. </p>"
+  presentation: SBIOT_WorkshopKCetin.pdf
 
 -
   id: 1014
